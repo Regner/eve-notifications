@@ -13,3 +13,12 @@ notification to all characters subscribed to that feed.
 * [en-rss-settings](https://github.com/Regner/en-rss-settings): Allows clients to configure which RSS feeds
 they wish to subscribe to and also allows internal services to lookup all character IDs subscribed to a feed.
 * [en-test](https://github.com/Regner/en-test): Allows devlopers to send a test notification to a character.
+
+|                                                                | Circle CI Build                                                                                                                |
+|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| [en-api-gateway](https://github.com/Regner/en-api-gateway)     | [![Circle CI](https://circleci.com/gh/Regner/en-api-gateway.svg?style=svg)](https://circleci.com/gh/Regner/en-api-gateway)     |
+| [en-gcm](https://github.com/Regner/en-gcm)                     | [![Circle CI](https://circleci.com/gh/Regner/en-gcm.svg?style=svg)](https://circleci.com/gh/Regner/en-gcm)                     |
+| [en-notifications](https://github.com/Regner/en-notifications) | [![Circle CI](https://circleci.com/gh/Regner/en-notifications.svg?style=svg)](https://circleci.com/gh/Regner/en-notifications) |
+| [en-rss](https://github.com/Regner/en-rss)                     | [![Circle CI](https://circleci.com/gh/Regner/en-rss.svg?style=svg)](https://circleci.com/gh/Regner/en-rss)                     |
+| [en-rss-settings](https://github.com/Regner/en-rss-settings)   | [![Circle CI](https://circleci.com/gh/Regner/en-rss-settings.svg?style=svg)](https://circleci.com/gh/Regner/en-rss-settings)   |
+| [en-test](https://github.com/Regner/en-test)                   | [![Circle CI](https://circleci.com/gh/Regner/en-test.svg?style=svg)](https://circleci.com/gh/Regner/en-test)                   |
