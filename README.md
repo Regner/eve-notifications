@@ -1,4 +1,5 @@
-# eve-notifications
+# EVE Notifications
+EVE Notifications is a cluster of microservices designed to gather information from around the internet about EVE Online and push notifications to subscibers with the use of [Google Cloud Messaging](https://developers.google.com/cloud-messaging/). Each microservice is built as a Docker container and deployed to Google's hosted Kubernetes service [Google Container Engine](https://cloud.google.com/container-engine/).
 
 # Repos
 * [en-api-gateway](https://github.com/Regner/en-api-gateway): NGINX gateway routing external requests to
