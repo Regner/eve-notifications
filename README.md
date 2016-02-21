@@ -14,6 +14,7 @@ notification to all characters subscribed to that feed.
 they wish to subscribe to and also allows internal services to lookup all character IDs subscribed to a feed.
 * [en-test](https://github.com/Regner/en-test): Allows devlopers to send a test notification to a character.
 
+## Status Badges
 |                                                                | Circle CI Build                                                                                                                | Requirements Status                                                                                                                                                                         |
 |----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [en-api-gateway](https://github.com/Regner/en-api-gateway)     | [![Circle CI](https://circleci.com/gh/Regner/en-api-gateway.svg?style=svg)](https://circleci.com/gh/Regner/en-api-gateway)     | [![Requirements Status](https://requires.io/github/Regner/en-api-gateway/requirements.svg?branch=master)](https://requires.io/github/Regner/en-api-gateway/requirements/?branch=master)     |
