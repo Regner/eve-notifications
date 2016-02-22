@@ -31,6 +31,8 @@ subscription and whenever a new notification is found it asks the EN-GCM service
 for all of the GCM tokens for a given list of character IDs and then sends a
 message via GCM.
 
+## Client Flow
+![EVE Notifications client flow](https://docs.google.com/drawings/d/1KuVy3kJGLrkPV0Yusqh0bxVOBvK6vYmu6GIzeIDW-f0/pub?w=1363&amp;h=1164 "EVE Notifications client flow")
 
 # Repos
 * __[en-api-gateway](https://github.com/Regner/en-api-gateway):__ NGINX gateway
